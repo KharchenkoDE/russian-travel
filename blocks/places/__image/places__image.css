@@ -1,5 +1,6 @@
-.photo-grid__item {
+.places__image {
     max-width: 100%;
     margin: 0;
     padding: 0;
+    object-fit: cover;
 }
