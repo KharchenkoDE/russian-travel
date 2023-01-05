@@ -8,12 +8,12 @@
 
 @media screen and (max-width: 1023px) {
     .cover {
-        margin: 90px 0 0 0;
+        margin-top: 90px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .cover {
-        margin: 66px 0 0 0;
+        margin-top: 66px;
     }
 }
